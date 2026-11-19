@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Se1224
-- 👀 I’m interested in tech , media and i actually love fashion and cooking
-- 🌱 I’m currently learning CS50x
+- 👋 Hi, I’m Lesedi , Sedi is fine as well
+- 👀 I’m interested in  tech , media and fashion
+- 🌱 I’m currently studying Information Systems 
 - 💞️ I’m looking to collaborate on beginner friendly projests 
 - 📫 How to reach me 17sesemakgoka@gmail.com
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: i know NOTHING about tech + programming , literally zero so help me God
+- ⚡ Fun fact: I love cooking !
 
 <!---
 Se1224/Se1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
